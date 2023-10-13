@@ -1,12 +1,18 @@
-## Hi there 👋
+# <img src="https://study.iitm.ac.in/ds/assets/img/paradox/ParadoxFullLogo.png" width="50" height="50" alt="Paradox Logo"> Paradox GitHub Organization
 
-<!--
+Welcome to the Paradox GitHub Organization! This organization hosts the repositories related to Paradox, our annual techno-cultural fest.
 
-**Here are some ideas to get you started:**
+## Connect with Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Stay updated with Paradox on our social media handles:
+- [YouTube](https://youtube.com/@paradox_iitmadras)
+- [Instagram](https://www.instagram.com/paradox_iitmadras)
+- [X](https://www.x.com/iitm_paradox)
+
+We look forward to your participation in our events and hope you'll follow us on social media for the latest updates!
+
+## Contact
+
+For inquiries and information about Paradox, please contact our organizers at support@iitmparadox.org.
+
+
